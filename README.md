@@ -1,7 +1,7 @@
 # Introduction
 This is the source code of our ICASSP 2012 paper "Cross-Modality Correlation Propagation for Cross-Media Retrieval", Please cite the following paper if you use our code.
 
-Xiaohua Zhai, Yuxin Peng, and Jianguo Xiao, "Cross-Modality Correlation Propagation for Cross-Media Retrieval", 37th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), pp. 2337-2340, Kyoto, Japan, Mar. 25-30, 2012.
+Xiaohua Zhai, Yuxin Peng, and Jianguo Xiao, "Cross-Modality Correlation Propagation for Cross-Media Retrieval", 37th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), pp. 2337-2340, Kyoto, Japan, Mar. 25-30, 2012. [[PDF]](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=286)
 
 # Usage
 Run our script to train and test:
